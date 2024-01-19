@@ -1,0 +1,26 @@
+body{
+    background-image: url(/istockphoto-620951116-612x612.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container {
+    background-color: transparent;
+    border: 1px solid white;
+    height: 35vh;
+    width: 30%;
+    margin: 212px 127px;
+}
+
+.text-field {
+    height: 30vh;
+}
+label{
+    font-weight: bold;
+}
+
+.text-field>input {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+}
